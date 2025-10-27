@@ -310,7 +310,7 @@ body {
 }
 .tool-list > li > .tl-name {
   top: 50%;
-  font-size: 1.2rem;
+  font-size: 1rem;
   transform: translate(-50%, -50%);
 }
 .tool-list > li > .tl-exp {
